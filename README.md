@@ -1,5 +1,5 @@
 ### Rom-0 POC
-POC to download rom binary from vulnerable routers and extract its login passwor
+POC to download rom binary from vulnerable routers and extract its login password
 
 Vulnerable devices are
 ```
